@@ -15,7 +15,4 @@ COPY service /service
 WORKDIR service
 EXPOSE 8000
 
-
-
-
 USER service-user
